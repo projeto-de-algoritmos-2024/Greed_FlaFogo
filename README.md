@@ -14,6 +14,7 @@ Resolução de questões disponíveis na plataforma LeetCode e GeekforGeeks, con
 
 ## Link da Gravação
 
+https://youtu.be/nw7ym9Cefwo
 
 ## Questões
 
