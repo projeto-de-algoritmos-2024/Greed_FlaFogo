@@ -1,44 +1,47 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greed_FlaFogo
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 65<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 221022041  | Júlio Roberto da Silva Neto |
+| 221021984  | Guilherme Silva Dutra|
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de questões disponíveis na plataforma LeetCode e GeekforGeeks, contemplando exercícios de níveis médio e difícil de dificuldade. O objetivo é abordar o conteúdo lecionado em sala de aula de forma simples e intuitiva, com códigos legiveis e de fácil compreensão.
+
+## Link da Gravação
+
+
+## Questões
+
+| Numeração | Exercício |  Dificuldade |
+| ---- | ----- | ---- |
+| 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) | Médio |
+| 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Médio|
+| 630 | [ Course Schedule III ](https://leetcode.com/problems/course-schedule-iii/description/) | Díficil |
+| Sem numeração | [HuffmanDecoding](https://www.geeksforgeeks.org/problems/huffman-decoding/1) | Difícil |
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Divide Intervals Into Minimum Number of Groups
+![Divide Intervals Into Minimum Number of Groups](./leetCode/assets/2406LeetCode.png)
+
+### Min Cost to Connect All Points
+![Min Cost to Connect All Points](./leetCode/assets/1584LeetCode.jpeg)
+
+### Course Schedule III 
+![Course Schedule III](./leetCode/assets/630leetCode.jpeg)
+
+### huffmanDecoding
+![HuffmanDecoding](./leetCode/assets/Huffman.jpeg)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python3, C++, C
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
